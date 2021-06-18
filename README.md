@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@6c6a8245715742d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@6c6a8245715742d" height="30" width="40" /></a>
+<a href="https://twitter.com/6c6a8245715742d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@6c6a8245715742d" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shreyash-chaudhary-988121176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyash-chaudhary-988121176" height="30" width="40" /></a>
 <a href="https://kaggle.com/shreyashchaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shreyashchaudhary" height="30" width="40" /></a>
 <a href="https://fb.com/shreyash.1507/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shreyash.1507/" height="30" width="40" /></a>
