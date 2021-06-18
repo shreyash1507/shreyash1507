@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyash1507" alt="shreyash1507" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@6c6a8245715742d" target="blank"><img src="https://img.shields.io/twitter/follow/@6c6a8245715742d?logo=twitter&style=for-the-badge" alt="@6c6a8245715742d" /></a> </p>
-
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate in **Data Science**
 
-- 💬 Ask me about **pyhton(pandas, matplotlib, numpy,seaborn), c/c++/java (basics),machine learning**
+- 💬 Ask me about **Python (pandas, matplotlib, numpy, seaborn), C/C++/Java (basics), Machine Learning**
 
 - 📫 How to reach me **shreyash.1507@gmail.com**
 
